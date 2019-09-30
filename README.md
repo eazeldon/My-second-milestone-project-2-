@@ -70,8 +70,8 @@ on as many screen sizes as possible as well as on both Chrome and Safari. I have
 put priority on making the site look good on the cell phone since today it is the first 
 point of contact for most people. Secondary screen priority is for various iPad/tablet 
 screen sizes. Devices used in testing, Apple MacBook Pro, Apple iPad mini, Apple 
-iPhone 6s, 7s. The site has also been tested on a Lenovo PC on using a chrome 
-browser.
+iPhone 6s, 7s. The site has also been tested on a Lenovo Thinkpad PC on using a chrome 
+browser. There were no issues found. 
 
 ## Deployment
 

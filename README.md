@@ -1,6 +1,6 @@
 ## Milestone web-project-2
 This is my second site and my second milestone project during my studies at the
-Code Institute.
+Code Institute. https://eazeldon.github.io/My-second-milestone-project-2-/
 
 ## Concept
 This is a website for dream vacations.
